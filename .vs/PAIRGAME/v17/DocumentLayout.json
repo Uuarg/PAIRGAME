@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PROJECTS\\GAME PROJECTS\\PAIRGAME\\PAIRGAME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|f:\\projects\\game projects\\pairgame\\pairgame\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|F:\\PROJECTS\\GAME PROJECTS\\PAIRGAME\\PAIRGAME\\assets\\scripts\\addbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\addbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "F:\\PROJECTS\\GAME PROJECTS\\PAIRGAME\\PAIRGAME\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "F:\\PROJECTS\\GAME PROJECTS\\PAIRGAME\\PAIRGAME\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAASwHUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:56:47.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddButtons.cs",
+              "DocumentMoniker": "F:\\PROJECTS\\GAME PROJECTS\\PAIRGAME\\PAIRGAME\\Assets\\Scripts\\AddButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AddButtons.cs",
+              "ToolTip": "F:\\PROJECTS\\GAME PROJECTS\\PAIRGAME\\PAIRGAME\\Assets\\Scripts\\AddButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AddButtons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:37:41.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
