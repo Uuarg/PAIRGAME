@@ -59,27 +59,24 @@ public class GameController : MonoBehaviour
     void AddGamePuzzles() 
     {
         int totalButtons = btns.Count;
-        int totalPairs = totalButtons / 2; // We need half the number of pairs
-
+        int totalPairs = totalButtons / 2; 
         int spriteIndex = 0;
 
         for (int i = 0; i < totalPairs; i++)
         {
-            // Ensure spriteIndex doesn't go out of bounds
+          
             if (spriteIndex >= puzzleData.puzzles.Length)
             {
-                spriteIndex = 0; // Loop back to the start if we've used all sprites
+                spriteIndex = 0; 
             }
 
-            // Add the pair of the current sprite
+
             gamePuzzles.Add(puzzleData.puzzles[spriteIndex]);
             gamePuzzles.Add(puzzleData.puzzles[spriteIndex]);
 
-            // Move to the next sprite
             spriteIndex++;
         }
 
-        // Shuffle the list to randomize the puzzle positions
         Shuffle(gamePuzzles);
     }
 

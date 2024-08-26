@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\PAIRGAME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\pairgame\\assets\\scripts\\addbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\addbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\pairgame\\assets\\scripts\\resizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\PAIRGAME\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\pairgame\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\pairgame\\assets\\scripts\\puzzledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\PAIRGAME\\assets\\scripts\\puzzledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\PAIRGAME\\assets\\scripts\\addbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C87B4D-5AAD-9AB8-17E0-C12ECC7F6B87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\addbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resizer.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\PAIRGAME\\Assets\\Scripts\\Resizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Resizer.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\PAIRGAME\\Assets\\Scripts\\Resizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Resizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:03:56.399Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,10 +49,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PuzzleData.cs",
               "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\PAIRGAME\\Assets\\Scripts\\PuzzleData.cs",
               "RelativeToolTip": "Assets\\Scripts\\PuzzleData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:28:47.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T19:28:47.139Z"
             },
             {
               "$type": "Document",
@@ -45,14 +61,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
               "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\PAIRGAME\\Assets\\Scripts\\GameController.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAlwEQAAAA5AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwD0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T12:56:47.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddButtons.cs",
               "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\PAIRGAME\\Assets\\Scripts\\AddButtons.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AddButtons.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Assets\\Scripts\\AddButtons.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T12:37:41.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T12:37:41.641Z"
             }
           ]
         }
