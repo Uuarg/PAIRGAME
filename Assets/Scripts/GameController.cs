@@ -9,11 +9,15 @@ public class GameController : MonoBehaviour
     [SerializeField]
     private Sprite bgImage;
 
-    public Sprite[] puzzles;
+
+
+    [SerializeField]
+    private PuzzleData puzzleData;
 
     public  List<Sprite> gamePuzzles = new List<Sprite>();
-
     public List<Button> btns = new List<Button>();
+
+    public int amountAdded = 0;
 
     private bool firstGuess, secondGuess;
 
@@ -26,10 +30,11 @@ public class GameController : MonoBehaviour
     private string firstGuessPuzzle, secondGuessPuzzle;
 
 
-    private void Awake()
+  /*  private void Awake()
     {
         puzzles = Resources.LoadAll<Sprite>("Sprites/meyveler");
-    }
+
+    }*/
     void Start()
     {
         GetButtons();
@@ -42,7 +47,7 @@ public class GameController : MonoBehaviour
     void GetButtons()
     {
         GameObject[] objects = GameObject.FindGameObjectsWithTag("PuzzleButton");
-
+        Debug.Log(objects.Length);
         for (int i = 0; i < objects.Length; i++)
         {
             btns.Add(objects[i].GetComponent<Button>());
@@ -53,18 +58,29 @@ public class GameController : MonoBehaviour
 
     void AddGamePuzzles() 
     {
-        int looper = btns.Count;
-        int index = 0;
+        int totalButtons = btns.Count;
+        int totalPairs = totalButtons / 2; // We need half the number of pairs
 
-        for (int i = 0; i < looper; i++)
+        int spriteIndex = 0;
+
+        for (int i = 0; i < totalPairs; i++)
         {
-            if (index == looper / 2)
-                index = 0;
+            // Ensure spriteIndex doesn't go out of bounds
+            if (spriteIndex >= puzzleData.puzzles.Length)
+            {
+                spriteIndex = 0; // Loop back to the start if we've used all sprites
+            }
 
-            gamePuzzles.Add(puzzles[index]);
+            // Add the pair of the current sprite
+            gamePuzzles.Add(puzzleData.puzzles[spriteIndex]);
+            gamePuzzles.Add(puzzleData.puzzles[spriteIndex]);
 
-            index++;
+            // Move to the next sprite
+            spriteIndex++;
         }
+
+        // Shuffle the list to randomize the puzzle positions
+        Shuffle(gamePuzzles);
     }
 
     void AddListener()

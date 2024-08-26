@@ -137,12 +137,12 @@ TextureImporter:
       name: meyveler_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 165
+        x: 0
+        y: 3278
         width: 104
-        height: 113
+        height: 115
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +159,12 @@ TextureImporter:
       name: meyveler_1
       rect:
         serializedVersion: 2
-        x: 140
-        y: 170
-        width: 112
-        height: 91
+        x: 129
+        y: 3282
+        width: 114
+        height: 94
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: meyveler_2
       rect:
         serializedVersion: 2
-        x: 290
-        y: 193
-        width: 105
-        height: 71
+        x: 279
+        y: 3306
+        width: 108
+        height: 72
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +203,12 @@ TextureImporter:
       name: meyveler_3
       rect:
         serializedVersion: 2
-        x: 433
-        y: 174
+        x: 423
+        y: 3287
         width: 107
-        height: 90
+        height: 93
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: meyveler_4
       rect:
         serializedVersion: 2
-        x: 580
-        y: 176
-        width: 113
-        height: 91
+        x: 569
+        y: 3288
+        width: 115
+        height: 95
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,12 +247,12 @@ TextureImporter:
       name: meyveler_5
       rect:
         serializedVersion: 2
-        x: 719
-        y: 181
-        width: 144
-        height: 103
+        x: 708
+        y: 3294
+        width: 142
+        height: 106
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: meyveler_6
       rect:
         serializedVersion: 2
-        x: 20
-        y: 36
-        width: 107
-        height: 106
+        x: 9
+        y: 3149
+        width: 108
+        height: 108
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -291,12 +291,12 @@ TextureImporter:
       name: meyveler_7
       rect:
         serializedVersion: 2
-        x: 165
-        y: 33
-        width: 67
-        height: 101
+        x: 154
+        y: 3145
+        width: 69
+        height: 103
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,6 +305,2844 @@ TextureImporter:
       bones: []
       spriteID: df9b2fa8913c91e479c7e0c825901274
       internalID: 41568057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3134
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe3b93ec613f03428418d4cdea8a83f
+      internalID: -1273379367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3139
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b7583d9d337bc42b701187451dbaf1
+      internalID: 360070818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 3162
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3514701b4f190e4ca567615f2ebf87c
+      internalID: 277836427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_11
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3142
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ca995a2855fa4ab05bf71d1e198fe
+      internalID: -1418856850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3099ceccf198734a82d577133d17a8a
+      internalID: 29644609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3012
+        width: 116
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c015a4eea638429d6ae13a988300f
+      internalID: -1861306361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3034
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4df95b4b5f3dbe4a89067d613dd9d7c
+      internalID: -421529551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_15
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3016
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc57b358171084a47af3ed2f81ecb852
+      internalID: 330941077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3017
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11220d9cf523503468102c5af7b983be
+      internalID: 1330674323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3023
+        width: 145
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d302e9eaa780df94cadac7df836e86ef
+      internalID: 1196918295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2878
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c622989647aca85499b822b6c1c099a6
+      internalID: -1288148575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2875
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d171040a0e7c54a813bd49a1bd5b30
+      internalID: 1172140787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2862
+        width: 106
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddb6865597aa69499ce4c9e14957ea4
+      internalID: 266791582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2868
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2896ae5ea36ac4ea13c50251a091b7
+      internalID: 1228210879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2891
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f505917375cd6459cbde05cd187584
+      internalID: 2054633821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_23
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2871
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea955dcb9eece284899227be13fddc83
+      internalID: -1186313826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59552f67c5f19b44e8523ad8fc50da73
+      internalID: -218344204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2725
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624b995f70f31245bc3b4d92960bdc4
+      internalID: -55332807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2748
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7a59a4a2a8884e8d2f4f344017d81
+      internalID: -973671790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_27
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2728
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab733dcf406ca554285eec6e6405d433
+      internalID: -767344118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_28
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2730
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c4a9e96d9de204aae1b8e39f646bd9
+      internalID: -1226855431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_29
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2737
+        width: 142
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474ec8d9edd6f94e95fe6bbdfe06dba
+      internalID: -680850530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2591
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0edc565d335e241b3a1b038a3fc666
+      internalID: 481768931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2589
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624484bf56afc8d49947ca883dee294f
+      internalID: 1764666317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2576
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710ea6ee27bce746b93f57acbb99991
+      internalID: -2019508640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2581
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef33fc55e1112c448692532c919485a
+      internalID: 519735160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_34
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2604
+        width: 106
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ba4dd468f746d4da8d3749e586600b
+      internalID: 444058496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_35
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2584
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ca6ad476265e54baf1137c33fad5a5
+      internalID: -2120811009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2426
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739857ecde58981449ea245a0e78775c
+      internalID: -2111561134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2431
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb127765eaf1a47ba9cb5ae6de3b59
+      internalID: -1850573638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2454
+        width: 109
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5917ca4f8f6662f44bc209e570fda07b
+      internalID: 1045569770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_39
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2434
+        width: 107
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fcd2810bd8276479c9b6a777bbbc83
+      internalID: -179543022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_40
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2436
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7457a79ff587f9c4cbdf13c9b08cc451
+      internalID: 2120004387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_41
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2443
+        width: 142
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cb089650f9d7c48b30b5ac03a486c3
+      internalID: -931908156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2297
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f82170543adcf94caf8c9b087c85cbe
+      internalID: -843965187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2295
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e78c1ffa4f26414bb4005859043cd50
+      internalID: 2021445098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2282
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39710af0daa5c1d45b4fc3869eeb37f3
+      internalID: 319325586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2287
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe9b7c97004b241ba8d983bd0bfc99
+      internalID: 235407580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_46
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2310
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883120488164f194ab0a81113c2d2ee1
+      internalID: -263105599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_47
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2290
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9109d1524262bfc4a93eda8d7b0cd8f7
+      internalID: -1270957252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2155
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e11204e30e8d4e4281c8453f635a03e
+      internalID: 791876945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2160
+        width: 116
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3324bbb50c2efe74ab5cfa8613faa47c
+      internalID: -322312660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_50
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2182
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd5997591278404ab7d65fa73d5a56e
+      internalID: -820435487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_51
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2164
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5aa535d51f3114d83d64d9aa11a5d0
+      internalID: -1416268569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_52
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2165
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b854abad41a0ae54fbe15d96d25dbdf3
+      internalID: 1838799437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_53
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2171
+        width: 145
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7348c0f4e8249c74587f3fa9029e8c22
+      internalID: 1127118868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2026
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec206414d38eb2741afcc026c3c42b27
+      internalID: -1307387094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2022
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f03291ae877f4d8f9ca66599aa992
+      internalID: -1165269836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2011
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0facc9fbf30dac54c8dfef6fa0efe806
+      internalID: 599549705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_57
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2016
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db81886aab2594489f8070b1ac88794
+      internalID: 270290764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_58
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2039
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72cb5bf5e5f42c45a2631dbdc33baec
+      internalID: 539988923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_59
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2020
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f578d7d5030c9994e80ee7cc315d8771
+      internalID: 1439663590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1868
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b0d7d57b54864db04dcc0bfb4a794
+      internalID: 1628250290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1873
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a184da42d625e74c9fd5740bfa5eb72
+      internalID: 191166324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1896
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6d285742c5591408a60d08706a9381
+      internalID: 722411294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_63
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1876
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9ff3599cdd9346b4a920ff05f371f
+      internalID: 1298296781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_64
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1878
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac223f71e57b48143a698e31044a4bc7
+      internalID: -1522494909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_65
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1885
+        width: 142
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6d5303fe596494ba354e40a8b22b09
+      internalID: 356583212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1738
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf072a9f6c63f614fb593173090118f4
+      internalID: 188639810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_67
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1737
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac489b982d449a46a635c5cca64d9fa
+      internalID: 1911536858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_68
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1723
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1444599053fc7114dad08c543fa6515b
+      internalID: -1426314558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_69
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1728
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc2c3084d30114a9717456ccd3d78a
+      internalID: -1805716020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_70
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1752
+        width: 106
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098bbda881af72746ab292bbbf3201fb
+      internalID: 1745309517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_71
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1627
+        width: 137
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eb904deec9dc141bac82448f3e7d3a
+      internalID: 1023613154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1610
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef0c81be3a512a449593dd261411e50
+      internalID: -133988440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_73
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1615
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3d80b80a9e3e44abcc7e3b56e59914
+      internalID: -1464315145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_74
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1639
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753fd9e334490494792228191151fa05
+      internalID: 857709058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_75
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1619
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8280b39349ec25f4f937e0a2508d09e5
+      internalID: 949529682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_76
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1622
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ebc5df9a265145bbd1ba857be3ffe
+      internalID: 1134236008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_77
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1481
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256b5acffb6384546b31f86450c0d46d
+      internalID: -1833914370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1479
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f61b7c2bd8b54f902b17d57afa0c3
+      internalID: 1372250746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1466
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3746ac8005945a54399513532abf2d82
+      internalID: -955578358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_80
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1473
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32abb99d7b9043641b1fd24065cc4b24
+      internalID: -817195941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_81
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1494
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314b4f4af2895a84a8a11442d5ccda68
+      internalID: 447671831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_82
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1476
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6831dbb32c11c64092bf632007e09ed
+      internalID: -2125686006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1340
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5953dcaebfb287a40b63eea011bca0ba
+      internalID: 607420731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_84
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1345
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90066f072e19074e9edb191503d0674
+      internalID: -834578741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1368
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe238baa1f0592e429f112a6c8856cf1
+      internalID: 807250388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_86
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1348
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b7d13a63fafb444a98adc364207193
+      internalID: 796567054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_87
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1351
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae6625ddb4feb4da66746623e735a5
+      internalID: -1558341447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_88
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1356
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b14821bf996ba4b831761b8c7cea9f
+      internalID: -940867309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1212
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386733f5106067c459d93b1d80226b16
+      internalID: 44891319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_90
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1208
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ca96cacfcb17e4d852b2b71ad1dfdf
+      internalID: -1997808287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_91
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1195
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5665c6b92ebcd4693dc300b812feea
+      internalID: 2098342167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_92
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1200
+        width: 116
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1004758a7829144bd1837c93563abb
+      internalID: 1658769738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_93
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1223
+        width: 108
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6817840619be54594a580f5429afcb
+      internalID: -1851258705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_94
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1205
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24942f07bb17a9448a6f689e6e9ce385
+      internalID: 58153703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1052
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a1a8bf23dc494eba6139e710643f8
+      internalID: 1726267217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_96
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1059
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af48fcb841a08d4f9964d06536336d6
+      internalID: -1090484133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_97
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1081
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752e6e9fa898cb7489218f0f9a6d2233
+      internalID: -1444374952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_98
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1062
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeed5f9f67839f469a160c73c91b889
+      internalID: 1630745119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_99
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1064
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30503debe28775248b820e9d6e3bcebd
+      internalID: 661130511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_100
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1069
+        width: 139
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf4b73acab7e92479d126655dd47c39
+      internalID: -1100802275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_101
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 923
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb241423ab5861498b6ea8e8efaffc5
+      internalID: 522118040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_102
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 921
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118cd469047c12d4dad54c85f19f54aa
+      internalID: 1031736155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_103
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 908
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e92dc498533fd4b9c8e2161c5c15f1
+      internalID: 1514840466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_104
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 914
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d956433cb7841a7409eecf3aafb0f9a4
+      internalID: -1526847240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_105
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 936
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf1c9f4ea4d177418b17c40b76f1978
+      internalID: -1672724640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_106
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 918
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb9955066412d8499791cf3854ed2ca
+      internalID: 1551397499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_107
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 787
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04a291a512720b4dbfb8851f53bf06c
+      internalID: -1564450195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_108
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 783
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1721a179c3aaa3b4889ed8d955cff149
+      internalID: 1055144084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_109
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 770
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503259a5fe2d9324b8c39541b10a7b34
+      internalID: -1357760094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_110
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 775
+        width: 115
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692cead705dcf614486d4899af03c51e
+      internalID: -1693480016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_111
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 798
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ddb8ce343f354c93a475fe96b91e5
+      internalID: -2011733099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_112
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 780
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acbb4c5c063657459257e10a155376b
+      internalID: 1155911946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41c16895cbf38b40ac376dc28d69d35
+      internalID: 741555529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_114
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 649
+        width: 116
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a4b12519ae108499f6ea36424a1dab
+      internalID: 1361438320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_115
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 672
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ba4dd41556a1648b964af88818a5c2
+      internalID: -1710513845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_116
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 654
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321f98476b786824fa54b8c7d431b378
+      internalID: -123300697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_117
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 655
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c672b79265537a04e9ebacfa47dddce9
+      internalID: -1666871048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_118
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 660
+        width: 145
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc1e5664e5dbd46b0feba9084fc175
+      internalID: 839878761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_119
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 514
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91dcb24772f279499a51bc6e6d14873
+      internalID: 1898382663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 512
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842207ee584873c47b697f9523cb54d4
+      internalID: 968312660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_121
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 499
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1643a9f7069b25459c8380634410a28
+      internalID: 2119900062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_122
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 504
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12290adf0bd9b4e873384560d562fb
+      internalID: 1230386846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_123
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 527
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a86e6dfce137914f8484d39993becfd
+      internalID: 434170116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_124
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 509
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014384a0a8f390546b1a25b464c05e4a
+      internalID: -875912558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5943dfe48f58047a95d991f5d2f6b0
+      internalID: 208813246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_126
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 361
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7df0ddd545e7d644889b5aa84db4555
+      internalID: 953733120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_127
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 385
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a7a40ec9bf03e4786f737f35e94ccd
+      internalID: -543642944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_128
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 366
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1470561ccc96d6b4485c5911188d7469
+      internalID: -984742028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_129
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 368
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77346201f77825442b2585b6e1857af7
+      internalID: 30536640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_130
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 373
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd4106be3b8f2a4caccc15515851018
+      internalID: 2009910497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_131
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5745880fc064e409bb7b8362e1d861
+      internalID: -127660986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_132
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 225
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914955191e1efa747a7fce1650c34338
+      internalID: -1405824174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_133
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 212
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad3b7a1c418934a8d0c6c729a40fe9
+      internalID: 2043782295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_134
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 217
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc78d222809b90e43902c5b8bfd3c8b8
+      internalID: -914414057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_135
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 240
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b133c5412770144af574280c1361d4
+      internalID: -717704863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meyveler_136
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 222
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6fcf00c96594b488383fbb74224326
+      internalID: 1121608178
       vertices: []
       indices: 
       edges: []
@@ -323,12 +3161,141 @@ TextureImporter:
     nameFileIdTable:
       meyveler_0: 537670503
       meyveler_1: -2058252831
+      meyveler_10: 277836427
+      meyveler_100: -1100802275
+      meyveler_101: 522118040
+      meyveler_102: 1031736155
+      meyveler_103: 1514840466
+      meyveler_104: -1526847240
+      meyveler_105: -1672724640
+      meyveler_106: 1551397499
+      meyveler_107: -1564450195
+      meyveler_108: 1055144084
+      meyveler_109: -1357760094
+      meyveler_11: -1418856850
+      meyveler_110: -1693480016
+      meyveler_111: -2011733099
+      meyveler_112: 1155911946
+      meyveler_113: 741555529
+      meyveler_114: 1361438320
+      meyveler_115: -1710513845
+      meyveler_116: -123300697
+      meyveler_117: -1666871048
+      meyveler_118: 839878761
+      meyveler_119: 1898382663
+      meyveler_12: 29644609
+      meyveler_120: 968312660
+      meyveler_121: 2119900062
+      meyveler_122: 1230386846
+      meyveler_123: 434170116
+      meyveler_124: -875912558
+      meyveler_125: 208813246
+      meyveler_126: 953733120
+      meyveler_127: -543642944
+      meyveler_128: -984742028
+      meyveler_129: 30536640
+      meyveler_13: -1861306361
+      meyveler_130: 2009910497
+      meyveler_131: -127660986
+      meyveler_132: -1405824174
+      meyveler_133: 2043782295
+      meyveler_134: -914414057
+      meyveler_135: -717704863
+      meyveler_136: 1121608178
+      meyveler_14: -421529551
+      meyveler_15: 330941077
+      meyveler_16: 1330674323
+      meyveler_17: 1196918295
+      meyveler_18: -1288148575
+      meyveler_19: 1172140787
       meyveler_2: 930992876
+      meyveler_20: 266791582
+      meyveler_21: 1228210879
+      meyveler_22: 2054633821
+      meyveler_23: -1186313826
+      meyveler_24: -218344204
+      meyveler_25: -55332807
+      meyveler_26: -973671790
+      meyveler_27: -767344118
+      meyveler_28: -1226855431
+      meyveler_29: -680850530
       meyveler_3: 58880717
+      meyveler_30: 481768931
+      meyveler_31: 1764666317
+      meyveler_32: -2019508640
+      meyveler_33: 519735160
+      meyveler_34: 444058496
+      meyveler_35: -2120811009
+      meyveler_36: -2111561134
+      meyveler_37: -1850573638
+      meyveler_38: 1045569770
+      meyveler_39: -179543022
       meyveler_4: 850917812
+      meyveler_40: 2120004387
+      meyveler_41: -931908156
+      meyveler_42: -843965187
+      meyveler_43: 2021445098
+      meyveler_44: 319325586
+      meyveler_45: 235407580
+      meyveler_46: -263105599
+      meyveler_47: -1270957252
+      meyveler_48: 791876945
+      meyveler_49: -322312660
       meyveler_5: 1849754259
+      meyveler_50: -820435487
+      meyveler_51: -1416268569
+      meyveler_52: 1838799437
+      meyveler_53: 1127118868
+      meyveler_54: -1307387094
+      meyveler_55: -1165269836
+      meyveler_56: 599549705
+      meyveler_57: 270290764
+      meyveler_58: 539988923
+      meyveler_59: 1439663590
       meyveler_6: -1983578831
+      meyveler_60: 1628250290
+      meyveler_61: 191166324
+      meyveler_62: 722411294
+      meyveler_63: 1298296781
+      meyveler_64: -1522494909
+      meyveler_65: 356583212
+      meyveler_66: 188639810
+      meyveler_67: 1911536858
+      meyveler_68: -1426314558
+      meyveler_69: -1805716020
       meyveler_7: 41568057
+      meyveler_70: 1745309517
+      meyveler_71: 1023613154
+      meyveler_72: -133988440
+      meyveler_73: -1464315145
+      meyveler_74: 857709058
+      meyveler_75: 949529682
+      meyveler_76: 1134236008
+      meyveler_77: -1833914370
+      meyveler_78: 1372250746
+      meyveler_79: -955578358
+      meyveler_8: -1273379367
+      meyveler_80: -817195941
+      meyveler_81: 447671831
+      meyveler_82: -2125686006
+      meyveler_83: 607420731
+      meyveler_84: -834578741
+      meyveler_85: 807250388
+      meyveler_86: 796567054
+      meyveler_87: -1558341447
+      meyveler_88: -940867309
+      meyveler_89: 44891319
+      meyveler_9: 360070818
+      meyveler_90: -1997808287
+      meyveler_91: 2098342167
+      meyveler_92: 1658769738
+      meyveler_93: -1851258705
+      meyveler_94: 58153703
+      meyveler_95: 1726267217
+      meyveler_96: -1090484133
+      meyveler_97: -1444374952
+      meyveler_98: 1630745119
+      meyveler_99: 661130511
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
